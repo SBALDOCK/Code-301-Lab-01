@@ -61,9 +61,12 @@
 @media only screen and (min-width:768px){
 * {
   background-color: rgb(235, 182, 182);
-  width: 960px;
 }
 
+.center{
+  max-width: 960px;
+  margin: auto;
+}
 
 .block{
   align-items: stretch;
