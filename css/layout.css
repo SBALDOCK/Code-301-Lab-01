@@ -5,8 +5,8 @@
 }
 main{
   display: grid;
-  grid-template-columns: 180px 180px;
-  grid-template-rows: 56px 113px 94px 94px 188px 188px 60px; 
+  grid-template-columns: 50% 50%;
+  grid-template-rows: 7% 14% 12% 12% 24% 24% 8%; 
 }
 #a {
   background-color: rgb(238, 207, 202);
