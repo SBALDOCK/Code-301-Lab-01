@@ -5,8 +5,8 @@
   }
   main{
     display: grid;
-    grid-template-columns: 200px 1fr 1fr 1fr 1fr;
-    grid-template-rows: 100px 200px 250px 150px;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 14% 29% 36% auto;
   }
   #a {
     background-color: rgb(240, 231, 231);
